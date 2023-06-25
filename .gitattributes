@@ -1,0 +1,8 @@
+﻿# .gitattributes
+
+# Set the default behavior for line endings
+* text=auto
+
+# Exclude files from line ending normalization
+*.dll binary
+*.exe binary

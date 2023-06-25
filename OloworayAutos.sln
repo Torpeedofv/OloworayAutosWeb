@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OloworayAutos", "OloworayAutos\OloworayAutos.csproj", "{6B9496B3-5536-4E12-B324-D616D3328929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OloworayAutos.Models", "OloworayAutos.Models\OloworayAutos.Models.csproj", "{2A04C5F3-8749-4AEB-8EE0-0EDC6FFCFC8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6B9496B3-5536-4E12-B324-D616D3328929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B9496B3-5536-4E12-B324-D616D3328929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B9496B3-5536-4E12-B324-D616D3328929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A04C5F3-8749-4AEB-8EE0-0EDC6FFCFC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A04C5F3-8749-4AEB-8EE0-0EDC6FFCFC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A04C5F3-8749-4AEB-8EE0-0EDC6FFCFC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A04C5F3-8749-4AEB-8EE0-0EDC6FFCFC8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

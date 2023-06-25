@@ -1,0 +1,13 @@
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\bin\Debug\netcoreapp3.1\OloworayAutos.Models.deps.json
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\bin\Debug\netcoreapp3.1\OloworayAutos.Models.dll
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\bin\Debug\netcoreapp3.1\OloworayAutos.Models.pdb
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.dll
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.pdb
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\bin\Debug\netcoreapp3.1\OloworayAutos.Models.runtimeconfig.json
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\bin\Debug\netcoreapp3.1\OloworayAutos.Models.runtimeconfig.dev.json
+C:\Users\HP ELITEBOOK\source\OloworayAutos\OloworayAutos.Models\obj\Debug\netcoreapp3.1\OloworayAutos.Models.genruntimeconfig.cache
